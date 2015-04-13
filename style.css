@@ -1,7 +1,7 @@
 body{
     margin: auto;
     width:1000px;
-    font-family: 'sans-serif';
+    font-family: Helvetica, Arial, Sans-Serif;
 }
 img{
     width: 90%;
@@ -23,5 +23,5 @@ li{
 }
 .contact a, .contact a:visited{
 	text-decoration: none;
-	color:purple;
+	color:#666;
 }
