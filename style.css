@@ -1,6 +1,7 @@
 body{
     margin: auto;
     width:1000px;
+    font-family: 'sans-serif';
 }
 img{
     width: 90%;
@@ -12,4 +13,15 @@ li{
     width: 260px;
     margin: 20px;
     display: inline-block;
+}
+.contact{
+	text-align: center;
+	text-decoration: none;
+	font-size: 150%;
+	position: relative;
+	left:-20px;
+}
+.contact a, .contact a:visited{
+	text-decoration: none;
+	color:purple;
 }
